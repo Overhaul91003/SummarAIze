@@ -1,6 +1,6 @@
 # SummarAIze 📝  
 
-**Too Long? Let OpenAI GPT-4 Summarize It for You!**  
+**Too Long? Let Rapid-API Summarize It for You!**  
 
 **SummarAIze** is an open-source **AI-powered article summarizer** that transforms **lengthy articles into clear and concise summaries**. Whether you're a **student, researcher, or just someone looking to save time**, SummarAIze makes reading **faster and easier**.  
 
@@ -8,18 +8,21 @@
 
 ## 🚀 Features  
 
-✅ **Instant Summaries** – Get concise summaries of long articles in seconds.  
-✅ **Powered by GPT-4** – Uses **OpenAI's GPT-4** for accurate and meaningful summarization.  
+✅ **Instant Summaries** – Get concise summaries of long articles in seconds.    
 ✅ **User-Friendly** – Simple and intuitive interface for seamless use.  
-✅ **RapidAPI Integration** – Fetch articles from various sources with ease.  
+✅ **RapidAPI Integration** – Fetch articles from various sources with ease and helps with Summarization.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **JavaScript** – Core programming language.  
-- **OpenAI API** – For GPT-4-powered text summarization.  
-- **RapidAPI Marketplace** – To fetch article data from various sources.  
+- **HTML** – Markup language for structuring web content.
+- **CSS** – Stylesheet language for designing web pages.
+- **JavaScript** – Scripting language for web development.  
+- **REACT** - JavaScript library for building UIs.
+- **Tailwind** - Utility-first CSS framework.
+- **Redux** - State management library.
+- **RapidAPI Marketplace** – To fetch article data from various sources and Summarize them .
 
 ---
 
