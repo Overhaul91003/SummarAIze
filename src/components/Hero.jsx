@@ -13,7 +13,7 @@ const Hero = () => {
       <h1 className='head_text'>
       Too Long? Let 
       <br className="max-md:hidden" />
-      <span className='text-gradient'>OpenAI GPT-4</span> Summarize It for You!
+      <span className='text-gradient'>Rapid-API</span> Summarize It for You!
       </h1>
       <h2 className='desc'>
       Simplify your reading with SummarAIze, an open-source article summarizer
